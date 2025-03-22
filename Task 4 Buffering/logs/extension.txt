@@ -1,0 +1,240 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.106.0
+Flutter extension: 3.106.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.98.2
+
+
+Logging Categories:
+    General
+
+Sat Mar 22 2025 [17:42:49 GMT+0200 (Eastern European Standard Time)] Log file started
+[5:42:49 PM] [General] [Info] Searching for SDKs...
+[5:42:49 PM] [General] [Info] Environment PATH:
+[5:42:49 PM] [General] [Info]     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[5:42:49 PM] [General] [Info]     C:\Program Files (x86)\VMware\VMware Workstation\bin\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Python312\Scripts\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Python312\
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\system32
+[5:42:49 PM] [General] [Info]     C:\WINDOWS
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\System32\Wbem
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\System32\OpenSSH\
+[5:42:49 PM] [General] [Info]     C:\Program Files\dotnet\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Git\cmd
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\AtlasModules
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\AtlasModules\Tools
+[5:42:49 PM] [General] [Info]     C:\WINDOWS\AtlasModules\Scripts
+[5:42:49 PM] [General] [Info]     C:\Program Files\Neovim\bin
+[5:42:49 PM] [General] [Info]     C:\msys64\mingw64\bin
+[5:42:49 PM] [General] [Info]     C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:49 PM] [General] [Info]     C:\AndroidSDK\platforms
+[5:42:49 PM] [General] [Info]     C:\AndroidSDK\platform-tools
+[5:42:49 PM] [General] [Info]     C:\Program Files\PowerShell\7\
+[5:42:49 PM] [General] [Info]     C:\Program Files\nodejs\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Microsoft SQL Server\150\Tools\Binn\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\
+[5:42:49 PM] [General] [Info]     C:\platform-tools
+[5:42:49 PM] [General] [Info]     C:\scrcpy-win64-v3.1
+[5:42:49 PM] [General] [Info]     C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Microsoft SQL Server\160\Tools\Binn\
+[5:42:49 PM] [General] [Info]     C:\Program Files\Microsoft SQL Server\160\DTS\Binn\
+[5:42:49 PM] [General] [Info]     C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Programs\Microsoft VS Code\bin
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Programs\oh-my-posh\bin
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\GitHubDesktop\bin
+[5:42:49 PM] [General] [Info]     C:\ProgramData\Yasser-Fekry\GitHubDesktop\bin
+[5:42:49 PM] [General] [Info]     C:\AndroidSDK\platforms
+[5:42:49 PM] [General] [Info]     C:\AndroidSDK\platform-tools
+[5:42:49 PM] [General] [Info]     C:\Program Files\dartsdk-windows-x64-release\dart-sdk\bin
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\spicetify
+[5:42:49 PM] [General] [Info]     C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\AppData\Roaming\npm
+[5:42:49 PM] [General] [Info]     C:\Users\Yasser-Fekry\.dotnet\tools
+[5:42:52 PM] [General] [Info] Took 3642ms to search for 0 projects (5 levels)
+[5:42:52 PM] [General] [Info]     Found projects:
+[5:42:52 PM] [General] [Info] Took 1ms to filter out excluded projects (0 exclusion rules). 0 projects remain.
+[5:42:52 PM] [General] [Info] Searching for flutter.bat
+[5:42:52 PM] [General] [Info]     Looking for flutter.bat in:
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Common Files\Oracle\Java\javapath -> C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\VMware\VMware Workstation\bin\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\Scripts\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\Scripts\ -> C:\Program Files\Python312\Scripts\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\ -> C:\Program Files\Python312\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\system32
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\system32 -> C:\WINDOWS\system32\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS
+[5:42:52 PM] [General] [Info]         C:\WINDOWS -> C:\WINDOWS\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\Wbem -> C:\WINDOWS\System32\Wbem\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\ -> C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\ -> C:\WINDOWS\System32\OpenSSH\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\dotnet\
+[5:42:52 PM] [General] [Info]         C:\Program Files\dotnet\ -> C:\Program Files\dotnet\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Git\cmd
+[5:42:52 PM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules -> C:\WINDOWS\AtlasModules\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Tools
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Tools -> C:\WINDOWS\AtlasModules\Tools\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Scripts
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Scripts -> C:\WINDOWS\AtlasModules\Scripts\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Neovim\bin
+[5:42:52 PM] [General] [Info]         C:\msys64\mingw64\bin
+[5:42:52 PM] [General] [Info]         C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms -> C:\AndroidSDK\platforms\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools -> C:\AndroidSDK\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\PowerShell\7\
+[5:42:52 PM] [General] [Info]         C:\Program Files\PowerShell\7\ -> C:\Program Files\PowerShell\7\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\nodejs\
+[5:42:52 PM] [General] [Info]         C:\Program Files\nodejs\ -> C:\Program Files\nodejs\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\150\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\platform-tools
+[5:42:52 PM] [General] [Info]         C:\platform-tools -> C:\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\scrcpy-win64-v3.1
+[5:42:52 PM] [General] [Info]         C:\scrcpy-win64-v3.1 -> C:\scrcpy-win64-v3.1\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\ -> C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\DTS\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\DTS\Binn\ -> C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\ -> C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\ -> C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Microsoft VS Code\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\oh-my-posh\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\GitHubDesktop\bin
+[5:42:52 PM] [General] [Info]         C:\ProgramData\Yasser-Fekry\GitHubDesktop\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms -> C:\AndroidSDK\platforms\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools -> C:\AndroidSDK\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\dartsdk-windows-x64-release\dart-sdk\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\spicetify
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\spicetify -> C:\Users\Yasser-Fekry\AppData\Local\spicetify\bin
+[5:42:52 PM] [General] [Info]         C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Roaming\npm
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Roaming\npm -> C:\Users\Yasser-Fekry\AppData\Roaming\npm\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\.dotnet\tools
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\.dotnet\tools -> C:\Users\Yasser-Fekry\.dotnet\tools\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\flutter-sdk
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\flutter-sdk -> C:\Users\Yasser-Fekry\flutter-sdk\bin
+[5:42:52 PM] [General] [Info]         /google/flutter
+[5:42:52 PM] [General] [Info]         /google/flutter -> \google\flutter\bin
+[5:42:52 PM] [General] [Info]         /opt/flutter
+[5:42:52 PM] [General] [Info]         /opt/flutter -> \opt\flutter\bin
+[5:42:52 PM] [General] [Info]     Found at:
+[5:42:52 PM] [General] [Info]     Candidate paths to be post-filtered:
+[5:42:52 PM] [General] [Info]     Returning SDK path undefined for flutter.bat
+[5:42:52 PM] [General] [Info] Searching for dart.exe
+[5:42:52 PM] [General] [Info]     Looking for dart.exe in:
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Common Files\Oracle\Java\javapath -> C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\VMware\VMware Workstation\bin\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\Scripts\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\Scripts\ -> C:\Program Files\Python312\Scripts\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Python312\ -> C:\Program Files\Python312\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\system32
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\system32 -> C:\WINDOWS\system32\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS
+[5:42:52 PM] [General] [Info]         C:\WINDOWS -> C:\WINDOWS\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\Wbem -> C:\WINDOWS\System32\Wbem\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\ -> C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\ -> C:\WINDOWS\System32\OpenSSH\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\dotnet\
+[5:42:52 PM] [General] [Info]         C:\Program Files\dotnet\ -> C:\Program Files\dotnet\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Git\cmd
+[5:42:52 PM] [General] [Info]         C:\Program Files\Git\cmd -> C:\Program Files\Git\cmd\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules -> C:\WINDOWS\AtlasModules\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Tools
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Tools -> C:\WINDOWS\AtlasModules\Tools\bin
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Scripts
+[5:42:52 PM] [General] [Info]         C:\WINDOWS\AtlasModules\Scripts -> C:\WINDOWS\AtlasModules\Scripts\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Neovim\bin
+[5:42:52 PM] [General] [Info]         C:\msys64\mingw64\bin
+[5:42:52 PM] [General] [Info]         C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms -> C:\AndroidSDK\platforms\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools -> C:\AndroidSDK\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\PowerShell\7\
+[5:42:52 PM] [General] [Info]         C:\Program Files\PowerShell\7\ -> C:\Program Files\PowerShell\7\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\nodejs\
+[5:42:52 PM] [General] [Info]         C:\Program Files\nodejs\ -> C:\Program Files\nodejs\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\150\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\platform-tools
+[5:42:52 PM] [General] [Info]         C:\platform-tools -> C:\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\scrcpy-win64-v3.1
+[5:42:52 PM] [General] [Info]         C:\scrcpy-win64-v3.1 -> C:\scrcpy-win64-v3.1\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\ -> C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\Tools\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\Tools\Binn\ -> C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\DTS\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files\Microsoft SQL Server\160\DTS\Binn\ -> C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\
+[5:42:52 PM] [General] [Info]         C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\ -> C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\ -> C:\Users\Yasser-Fekry\AppData\Local\Programs\Python\Launcher\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WindowsApps\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\Microsoft VS Code\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Links\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Programs\oh-my-posh\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\GitHubDesktop\bin
+[5:42:52 PM] [General] [Info]         C:\ProgramData\Yasser-Fekry\GitHubDesktop\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platforms -> C:\AndroidSDK\platforms\bin
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools
+[5:42:52 PM] [General] [Info]         C:\AndroidSDK\platform-tools -> C:\AndroidSDK\platform-tools\bin
+[5:42:52 PM] [General] [Info]         C:\Program Files\dartsdk-windows-x64-release\dart-sdk\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\spicetify
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\spicetify -> C:\Users\Yasser-Fekry\AppData\Local\spicetify\bin
+[5:42:52 PM] [General] [Info]         C:\flutter_windows_3.24.4-stable\flutter\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe -> C:\Users\Yasser-Fekry\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Roaming\npm
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\AppData\Roaming\npm -> C:\Users\Yasser-Fekry\AppData\Roaming\npm\bin
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\.dotnet\tools
+[5:42:52 PM] [General] [Info]         C:\Users\Yasser-Fekry\.dotnet\tools -> C:\Users\Yasser-Fekry\.dotnet\tools\bin
+[5:42:52 PM] [General] [Info]     Found at:
+[5:42:52 PM] [General] [Info]     Candidate paths to be post-filtered:
+[5:42:52 PM] [General] [Info]     Returning SDK path undefined for dart.exe
+[5:42:53 PM] [General] [Error] No Dart or Flutter SDK was found. Suppressing prompt because it doesn't appear that a Dart/Flutter project is open.
+[5:53:52 PM] [General] [Info] Extension deactivate was called (isRestart: false)
+[5:53:52 PM] [General] [Error] Error cleaning up during extension shutdown: Canceled: Canceled
+[5:53:52 PM] [General] [Info] Extension cleanup done
+[5:53:52 PM] [General] [Info] Closing all loggers...
+Sat Mar 22 2025 [17:53:52 GMT+0200 (Eastern European Standard Time)] Log file ended

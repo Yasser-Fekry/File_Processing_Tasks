@@ -1,0 +1,15 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.106.0
+Flutter extension: 3.106.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: win 1.98.2
+
+
+Logging Categories:
+    FlutterDaemon
+
+Sat Mar 22 2025 [17:42:53 GMT+0200 (Eastern European Standard Time)] Log file started
+[5:42:53 PM] [General] [Error] No Dart or Flutter SDK was found. Suppressing prompt because it doesn't appear that a Dart/Flutter project is open.
+Sat Mar 22 2025 [17:53:52 GMT+0200 (Eastern European Standard Time)] Log file ended
